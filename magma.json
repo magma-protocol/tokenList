@@ -14,7 +14,7 @@
       "symbol": "WMNT",
       "name": "Wrapped MNT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29127/thumb/alpha.png?1677663278"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11221.png"
     },
     {
         "chainId": 5001,
@@ -22,7 +22,7 @@
         "symbol": "USDT",
         "name": "USDT",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/29127/thumb/alpha.png?1677663278"
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
       },
       {
         "chainId": 5001,
@@ -30,7 +30,7 @@
         "symbol": "USDC",
         "name": "USDC",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/29127/thumb/alpha.png?1677663278"
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
       },
       {
         "chainId": 5001,
@@ -38,7 +38,7 @@
         "symbol": "MAMA",
         "name": "MAMA",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/29127/thumb/alpha.png?1677663278"
+        "logoURI": "https://apex.mypinata.cloud/ipfs/QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
       },
       {
         "chainId": 5001,
@@ -46,7 +46,7 @@
         "symbol": "DOGE",
         "name": "DOGE",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/29127/thumb/alpha.png?1677663278"
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
       }
   ],
   "logoURI": "ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx"
