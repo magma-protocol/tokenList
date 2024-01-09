@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "tokens": [
     {
@@ -86,7 +86,7 @@
       "symbol": "mETH",
       "name": "Mantle Staked Ether",
       "decimals": 18,
-      "logoURI": "https://token.mypinata.cloud/ipfs/QmbFShKvVBPGR8qphT6FgrRL6sbZwdindvb7ay5sDPbQxt"
+      "logoURI": "https://agni.finance/static/mETH.png"
     }    
   ],
   "logoURI": "ipfs://QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
