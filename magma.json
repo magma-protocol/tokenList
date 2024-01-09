@@ -1,11 +1,11 @@
 {
   "name": "Agni",
-  "timestamp": "2023-06-27T12:00:15+00:00",
+  "timestamp": "2024-01-09T14:00:00+00:00",
   "keywords": ["Agni", "defi"],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tokens": [
     {
@@ -38,7 +38,7 @@
       "symbol": "MAMA",
       "name": "MAMA",
       "decimals": 18,
-      "logoURI": "https://apex.mypinata.cloud/ipfs/QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
+      "logoURI": "https://token.mypinata.cloud/ipfs/QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
     },
     {
       "chainId": 5001,
@@ -79,7 +79,15 @@
       "name": "Ondo U.S. Dollar Yield",
       "decimals": 18,
       "logoURI": "https://agni.finance/static/usdy.png"
-    }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+      "symbol": "mETH",
+      "name": "Mantle Staked Ether",
+      "decimals": 18,
+      "logoURI": "https://token.mypinata.cloud/ipfs/QmbFShKvVBPGR8qphT6FgrRL6sbZwdindvb7ay5sDPbQxt"
+    }    
   ],
   "logoURI": "ipfs://QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
 }
