@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   },
   "tokens": [
     {
@@ -86,7 +86,7 @@
       "symbol": "mETH",
       "name": "Mantle Staked Ether",
       "decimals": 18,
-      "logoURI": "https://agni.finance/static/mETH.png"
+      "logoURI": "https://agni.finance/static/meth.png"
     }    
   ],
   "logoURI": "ipfs://QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
