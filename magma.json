@@ -87,14 +87,6 @@
       "name": "Mantle Staked Ether",
       "decimals": 18,
       "logoURI": "https://agni.finance/static/meth.png"
-    },
-    {
-      "chainId": 5000,
-      "address": "0x8832e188BCaD597b07feE633C9fbA0Fc61345C4C",
-      "symbol": "gungun",
-      "name": "MANTLE DOGE",
-      "decimals": 18,
-      "logoURI": "https://agni.finance/static/gungun.png"
     }
   ],
   "logoURI": "ipfs://QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
