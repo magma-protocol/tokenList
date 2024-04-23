@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "tokens": [
     {
@@ -87,6 +87,14 @@
       "name": "Mantle Staked Ether",
       "decimals": 18,
       "logoURI": "https://agni.finance/static/meth.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
+      "symbol": "aUSD",
+      "name": "Aurelius USD",
+      "decimals": 18,
+      "logoURI": "https://agni.finance/static/ausd.png"
     }
   ],
   "logoURI": "ipfs://QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
