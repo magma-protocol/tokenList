@@ -5,16 +5,48 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 13
+    "patch": 14
   },
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
+      "symbol": "axlETH",
+      "name": "Axelar Wrapped ETH",
+      "decimals": 18,
+      "logoURI": "https://agni.finance/static/axleth.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
+      "symbol": "cmETH",
+      "name": "cmETH",
+      "decimals": 18,
+      "logoURI": "https://agni.finance/static/cmeth.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "https://agni.finance/static/wbtc.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "symbol": "WMNT",
+      "name": "Wrapped MNT",
+      "decimals": 18,
+      "logoURI": "https://agni.finance/static/wmnt.png"
+    },
     {
       "chainId": 5001,
       "address": "0xEa12Be2389c2254bAaD383c6eD1fa1e15202b52A",
       "symbol": "WMNT",
       "name": "Wrapped MNT",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11221.png"
+      "logoURI": "https://agni.finance/static/wmnt.png"
     },
     {
       "chainId": 5001,
