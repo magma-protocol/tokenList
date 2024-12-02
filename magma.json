@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 14
+    "patch": 15
   },
   "tokens": [
     {
@@ -143,6 +143,14 @@
       "name": "Wrapped SOL",
       "decimals": 9,
       "logoURI": "https://agni.finance/static/sol.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+      "symbol": "uniBTC",
+      "name": "Universal BTC",
+      "decimals": 8,
+      "logoURI": "https://agni.finance/static/uniBTC.png"
     }
   ],
   "logoURI": "ipfs://QmSXMbsfA3G2CcDv5RHnqukGrMrRJYvtJY98UF55tp1qQL"
