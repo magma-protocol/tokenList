@@ -5,9 +5,17 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 14
+    "patch": 15
   },
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+      "symbol": "uniBTC",
+      "name": "uniBTC",
+      "decimals": 18,
+      "logoURI": "https://agni.finance/static/unibtc.png"
+    },
     {
       "chainId": 5000,
       "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
