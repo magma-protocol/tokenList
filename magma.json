@@ -5,9 +5,17 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 15
+    "patch": 16
   },
   "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDe",
+      "name": "USDe",
+      "decimals": 18,
+      "logoURI": "https://agni.finance/static/usde.png"
+    },
     {
       "chainId": 5000,
       "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
