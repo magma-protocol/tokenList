@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 18
+    "patch": 19
   },
   "tokens": [
     {
@@ -124,7 +124,7 @@
       "chainId": 5000,
       "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
       "symbol": "FBTC",
-      "name": "Functional BTC",
+      "name": "FunctionBTC",
       "decimals": 8,
       "logoURI": "https://agni.finance/static/fbtc.svg"
     },
