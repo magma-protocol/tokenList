@@ -5,9 +5,17 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 21
+    "patch": 22
   },
   "tokens": [
+     {
+      "chainId": 5000,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "symbol": "USDT0",
+      "name": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://agni.finance/static/usdt0.png"
+    },
     {
       "chainId": 5000,
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
